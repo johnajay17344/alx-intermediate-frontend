@@ -1,0 +1,6 @@
+1. Verified that Node.js and npm were installed on my system by running: node -v
+  npm -v
+
+2. Installed SASS version 3.7.4 using npm with the command: npm install sass -v 3.7.4
+
+3. Confirmed the installation by checking the installed SASS version: npx sass --version
